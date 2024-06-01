@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Jasmine-07
-- 🌱 I’m currently learning Web Development
 - 📫 How to reach me ...
 - https://www.linkedin.com/in/jasmine-0b3136231/
 
